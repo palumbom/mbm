@@ -1,0 +1,11 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Manhattan Bridges Marathons'
+theme = 'hugo-scroll'
+enableEmoji = true
+
+# This is a "one page"-website
+disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
+
+[params]
+    title = "Manahattan Bridge Marathons"
