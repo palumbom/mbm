@@ -1,11 +1,13 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'Manhattan Bridges Marathons'
-theme = 'hugo-scroll'
+baseURL = "https://example.org/"
+languageCode = "en-us"
+title = "Manhattan Bridges Marathons"
+theme = "hugo-scroll"
 enableEmoji = true
 
-# This is a "one page"-website
+# This is a "one page"-website.
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 
+# Reference-only: see themes/hugo-scroll/exampleSite/hugo.toml for full options.
 [params]
-    title = "Manahattan Bridge Marathons"
+  title = "Manhattan Bridges Marathons"
+  description = "This is a shitpost. Or is it???"
