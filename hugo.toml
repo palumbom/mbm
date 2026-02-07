@@ -11,3 +11,7 @@ disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 [params]
   title = "Manhattan Bridges Marathons"
   description = "This is a shitpost. Or is it???"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
